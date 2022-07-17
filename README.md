@@ -1,9 +1,9 @@
 
-## ColdFusion Applicaitons
+## ColdFusion 
 * [To-Do List](https://github.com/nastanford/cf_todolist)
 
 
-## Php Applications
+## Php 
 * [To-Do List](https://github.com/nastanford/php_todolist)
 
 <!--
