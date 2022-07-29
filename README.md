@@ -1,25 +1,9 @@
 
 ## ColdFusion 
 * [To-Do List](https://github.com/nastanford/cf_todolist)
-
+* [cf_simple](https://github.com/nastanford/cf_simple)
 
 ## Php 
 * [To-Do List](https://github.com/nastanford/php_todolist)
+* [php_simple](https://github.com/nastanford/php_simple)
 
-<!--
-**nastanford/nastanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ColdFusion and Php To-Do List beginner tutorial.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
