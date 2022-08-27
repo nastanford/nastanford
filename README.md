@@ -3,16 +3,16 @@
 </h2>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=nastanford&count_private=true&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=nastanford&count_private=true&theme=tokyonight">
 </p> 
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=nastanford&count_private=true&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nastanford&count_private&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=nastanford&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nastanford&count_private&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nastanford&count_private&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nastanford&count_private&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
 
 <p align="center">
