@@ -3,7 +3,7 @@
 </h2>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=nastanford&count_private=true&theme=tokyonight">
+ <img src="https://activity-graph.herokuapp.com/graph?username=nastanford&count_private=true&theme=redical">
 </p> 
 <br>
 <p align = "center">
