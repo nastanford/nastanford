@@ -3,6 +3,11 @@
 </h2>
 
 <p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=nastanford&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nastanford&count_private&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+</p>
+
+<p align = "center">
 <!---
   <img  src = "https://github-readme-stats.vercel.app/api?username=nastanford&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nastanford&count_private&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
@@ -10,7 +15,7 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nastanford&count_private&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=40" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nastanford&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=40" />
 </p> 
 <br>
 <p align = "center">
