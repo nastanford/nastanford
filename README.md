@@ -18,9 +18,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nastanford&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=40" />
 </p> 
 <br>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=nastanford&count_private=true&theme=redical">
-</p> 
 
 <p align="center">
 Nathan is a Senior Programmer with 
